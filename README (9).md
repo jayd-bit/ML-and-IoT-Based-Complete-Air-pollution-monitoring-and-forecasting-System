@@ -17,6 +17,9 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 ### IOT based Air Pollution Sensing Device
 ![Image text](Screenshots/IoT-Device/device.jpg)
 
+![Uploading device.jpg…]()
+
+
 1. Arduino (Mega 2560)
 2. Pollution Sensors
 3. Paticulate Matter Sensor
